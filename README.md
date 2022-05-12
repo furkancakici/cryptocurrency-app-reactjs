@@ -10,5 +10,6 @@ CANLI : [LINK](cryptocurrency-app-reactjs.vercel.app/)
 + React
 + Redux Toolkit
 + Axios
++ RapidApi
 + Antd
 + Chartjs
