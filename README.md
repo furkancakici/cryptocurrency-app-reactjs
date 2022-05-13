@@ -2,7 +2,7 @@
 
 #### Cryptocurrency ile ilgili güncel fiyatlara ve haberlere api yardımıyla ulaşılan bir react uygulamasıdır.
 
-CANLI : [LINK](cryptocurrency-app-reactjs.vercel.app/)
+CANLI : [LINK](https://cryptocurrency-app-reactjs.vercel.app/)
 
 
 #### Neler Kullandım / Öğrendim
